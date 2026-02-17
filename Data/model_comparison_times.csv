@@ -1,0 +1,8 @@
+Model,Training Time (s),Prediction Time (s),Total Time (s)
+Logistic Regression,0.0362,0.0018,0.038
+Perceptron,0.0065,0.0017,0.0082
+SVM,1.235,0.1373,1.3723
+Naive Bayes,0.0035,0.0015,0.0051
+Decision Tree,0.0241,0.0017,0.0258
+Random Forest,0.4689,0.0221,0.491
+k-NN,0.0035,0.0209,0.0244
